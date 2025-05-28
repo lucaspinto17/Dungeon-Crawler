@@ -1,17 +1,19 @@
 # PROJETO DUNGEON CRAWLER
 Projeto de um jogo do professor Pedro Girotto do Cesupa sobre um jogo "puzzle" desenvolvido em C.
+
 Feito na ferramenta 'Visual Studio Code' , a qual foi a ferramenta utilizada pelos professores das materias de programação no bimestre atual.
 ##
   ⁉️INFORMAÇÕES SOBRE O JOGO⁉️
 ##
   👾 JOGO 👾
 -  Dungeon Crawler 🐍
+  
 O jogo é do estilo aventura/puzzle onde o objetivo é o jogador conseguir passar de
 três fases. Em cada fase o jogador deve se movimentar para pegar uma chave para
 abrir a porta fechada.
+
 O jogador possui os seguintes comando:
 ● W: O jogador movimenta uma unidade para cima;
-
 ● A: O jogador movimenta uma unidade para esquerda;
 ● S: O jogador movimenta uma unidade para baixo;
 ● D: O jogador movimenta uma unidade para direita;
