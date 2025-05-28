@@ -7,12 +7,14 @@ Feito na ferramenta 'Visual Studio Code' , a qual foi a ferramenta utilizada pel
 ##
   👾 JOGO 👾
   ##
--  Dungeon Crawler 🐍 
+-  Dungeon Crawler 🐍
+
 O jogo é do estilo aventura/puzzle onde o objetivo é o jogador conseguir passar de
 três fases. Em cada fase o jogador deve se movimentar para pegar uma chave para
 abrir a porta fechada.
 ##
 O jogador possui os seguintes comando:
+
 ● W: O jogador movimenta uma unidade para cima;
 ● A: O jogador movimenta uma unidade para esquerda;
 ● S: O jogador movimenta uma unidade para baixo;
@@ -20,7 +22,8 @@ O jogador possui os seguintes comando:
 ● i: O jogador interage com o objeto que está em cima.
 ##
 O jogo possui os seguintes elementos nas fases:
-● &amp;: Símbolo que representa o jogador.
+
+● &;: Símbolo que representa o jogador.
 ● P: Símbolo que representa um NPC.
 ● *: Símbolo que representa uma parede, o jogador ao se movimentar não pode
 passar pela parede.
@@ -44,8 +47,9 @@ movimento aleatório para cima, para esquerda, para baixo e para direita. Caso
 o monstro toque no jogador, a fase é reiniciada.
 ● V: Símbolo que representa o monstro nível 2. Esse monstro tem uma
 inteligência para seguir o jogador (há várias maneiras de implementar isso).
-Caso o monstro toque no jogador, a fase é reiniciada.
 ##
+Caso o monstro toque no jogador, a fase é reiniciada.
+
 O jogo possui as seguintes telas:
 ● Menu Principal: Menu com o título do jogo e com as opções: jogar, crédito e
 sair;
