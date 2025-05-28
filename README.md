@@ -75,6 +75,7 @@ elementos: todos da Fase 1 mais botão, espinhos e o monstro nível 1;
 elementos: todos da Fase 2 mais teletransporte e o monstro nível 2.
 ##
   📖Historia📖
+
 Um jogo de aventura é um gênero de videogame no qual o jogador assume o papel
 de protagonista em uma história interativa impulsionada pela exploração e/ou
 resolução de quebra-cabeças (Rollings &amp; Adams 2003, p. 43). O foco do gênero na
@@ -87,6 +88,7 @@ aventura, lançado pela primeira vez em 1976, enquanto outras séries de jogos d
 aventura notáveis incluem Zork, King&#39;s Quest, The Secret of Monkey Island e Myst.
 ##
   📌Objetivo📌
+
 Este projeto tem como objetivo desenvolver a habilidade do aluno de resolução de
 problema, raciocínio lógico algorítmico e competência interpessoal, além de treinar
 todos os conhecimentos adquiridos na programação e algoritmos.
