@@ -101,6 +101,7 @@ EQUIPE👬:
 - Lucas Pinto🙎‍♂️
 - Mario Henrique🙎‍♂️
 - Pedro Mansour 🙎‍♂️
+- Murilo Fagundes 🙎‍♂️
 ##
 PROFESSOR🙋‍♂️:
 - Pedro Girotto🤵
